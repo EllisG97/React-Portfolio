@@ -3,25 +3,25 @@ export const projects = [
     title: "Art Classifier",
     subtitle: "Machine Learning",
     description:
-            "Machine Learning model to determine the Art Style of a given painting (Python, Tensorflow, ResNet50, Flask)",
+            "Machine Learning model deployed as a Flask web application to determine the Art Style of a given painting (Python, Tensorflow, ResNet50, Flask)",
     image: "./ML_project.gif",
         link: "https://github.com/EllisG97",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Historical Map Facts",
+    subtitle: "Java and JSON",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A Java project featuring an interactive world map that displays unique facts for each country using the Unfolding Maps API and a JSON database (Java, JSON)",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      link: "https://github.com/EllisG97/Historical_Map_Facts",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Thomas Was Alone",
+    subtitle: "C++ and SFML",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "My own version of the platforming game Thomas Was Alone (https://store.steampowered.com/app/220780/Thomas_Was_Alone/) using SFML with OPENGL shaders (C++, SFML, OpenGL)",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      link: "https://github.com/EllisG97/TWL_Game",
   },
   {
     title: "Epic Todo App",
