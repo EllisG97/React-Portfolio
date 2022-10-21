@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: "ML Project",
-    subtitle: "Art Classifier",
+    title: "Art Classifier",
+    subtitle: "Machine Learning",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "Machine Learning model to determine the Art Style of a given painting (Python, Tensorflow, ResNet50, Flask)",
     image: "./ML_project.gif",
         link: "https://github.com/EllisG97",
   },
