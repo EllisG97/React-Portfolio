@@ -11,7 +11,7 @@ export const projects = [
     title: "Historical Map Facts",
     subtitle: "Java and JSON",
     description:
-      "A Java project featuring an interactive world map that displays unique facts for each country using the Unfolding Maps API and a JSON database (Java, JSON)",
+      "A Java project featuring an interactive world map that displays unique facts for each country using the Unfolding Maps API and a JSON database (Java, JSON, NoSQL)",
     image: "./project-2.gif",
       link: "https://github.com/EllisG97/Historical_Map_Facts",
   },
@@ -51,10 +51,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Java",
+  "C++",
+  "Python",
+  "SQL/CQL",
+  "NoSQL",
+  "Spring Boot",
 ];

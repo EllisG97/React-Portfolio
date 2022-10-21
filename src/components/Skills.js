@@ -12,9 +12,10 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
+            As programming is such a fast-moving industry, I understand the importance 
+            of keeping up with the lastest languages and paradigms. I am extremely 
+            passionate when it comes to learning new tech. Here are just a few languages
+            ,frameworks and approaches i am familiar with:
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
