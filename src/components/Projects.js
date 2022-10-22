@@ -14,7 +14,7 @@ export default function Projects() {
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
             Since graduating I have worked on a range of projects, from
             Machine Learning to Java Applets. Here are just a few examples
-                      of what i have recently worked on. For more be sure to check out my <a href="https://github.com/EllisG97" target="_blank">GitHub!</a>
+                      of what i have recently worked on. For more be sure to check out my <a href="https://github.com/EllisG97" target="_blank" class="underline decoration-indigo-500">GitHub!</a>
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
