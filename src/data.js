@@ -16,7 +16,7 @@ export const projects = [
       link: "https://github.com/EllisG97/Historical_Map_Facts",
   },
   {
-    title: "Thomas Was Alone",
+    title: "Thomas Was Late",
     subtitle: "C++ and SFML",
     description:
       "My own version of the platforming game Thomas Was Alone (https://store.steampowered.com/app/220780/Thomas_Was_Alone/) using SFML with OPENGL shaders (C++, SFML, OpenGL)",
