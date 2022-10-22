@@ -72,8 +72,8 @@ export default function Contact() {
             Contact Me!
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            To get in touch regarding work or to simply request a copy of my CV
+            please fill out the form below!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">

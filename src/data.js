@@ -16,7 +16,7 @@ export const projects = [
       link: "https://github.com/EllisG97/Historical_Map_Facts",
   },
   {
-    title: "Thomas Was Late",
+    title: "Platformer Game",
     subtitle: "C++ and SFML",
     description:
       "My own version of the platforming game Thomas Was Alone (https://store.steampowered.com/app/220780/Thomas_Was_Alone/) using SFML with OPENGL shaders (C++, SFML, OpenGL)",
@@ -24,11 +24,11 @@ export const projects = [
       link: "https://github.com/EllisG97/TWL_Game",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Timber Game",
+    subtitle: "C++ and SFML",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+      "A simple C++ game where you cut down a tree to score points whilst avoiding being crushed by branches. Uses the SFML multimedia Library (C++, SFML)",
+    image: "./Timber_game.gif",
     link: "https://reactbootcamp.com",
   },
 ];
