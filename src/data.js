@@ -39,14 +39,14 @@ export const testimonials = [
       "I am currently helping a first-year Computer-Science student get to grips with programming fundamentals. This includes covering important data structures and regularly pair-programming through LeetCode problems!",
     image: "./tutor.svg",
     name: "Computer Science Tutoring",
-    company: "Freelance",
+    company: "Volunteering",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "Upon graduation i began my own freelance copywriting and consultancy service. This helped reinforce a range of soft skills, such as communcation and time management. It also highlighted to me the importance of well-written and concise documentation.",
+    image: "./Seo.svg",
+    name: "SEO Copywriter & Website Consultant",
+    company: "Freelance",
   },
 ];
 
