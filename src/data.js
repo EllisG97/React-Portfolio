@@ -54,7 +54,7 @@ export const skills = [
   "Java",
   "C++",
   "Python",
-  "SQL/CQL",
+  "Agile Methodologies",
   "NoSQL",
   "Spring Boot",
 ];
