@@ -12,9 +12,9 @@ export default function Projects() {
             My Projects
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Since graduating i have worked on a range of projects, from
+            Since graduating I have worked on a range of projects, from
             Machine Learning to Java Applets. Here are just a few examples
-            of my recent projects. For more be sure to check out my GitHub!
+            of what i have recently worked on. For more be sure to check out my GitHub!
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

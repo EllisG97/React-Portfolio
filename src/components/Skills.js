@@ -14,8 +14,8 @@ export default function Skills() {
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
             As programming is such a fast-moving industry, I understand the importance 
             of keeping up with the lastest languages and paradigms. I am extremely 
-            passionate when it comes to learning new tech. Here are just a few languages
-            ,frameworks and approaches i am familiar with:
+            passionate when it comes to learning new tech. Here are just a few languages,
+            frameworks and approaches I am familiar with:
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
