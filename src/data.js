@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Java and JSON",
     description:
       "A Java project featuring an interactive world map that displays unique facts for each country using the Unfolding Maps API and a JSON database (Java, JSON, NoSQL)",
-    image: "./project-2.gif",
+    image: "./Map_project.gif",
       link: "https://github.com/EllisG97/Historical_Map_Facts",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "C++ and SFML",
     description:
       "My own version of the platforming game Thomas Was Alone (https://store.steampowered.com/app/220780/Thomas_Was_Alone/) using SFML with OPENGL shaders (C++, SFML, OpenGL)",
-    image: "./project-3.gif",
+    image: "./SFML_game.gif",
       link: "https://github.com/EllisG97/TWL_Game",
   },
   {
