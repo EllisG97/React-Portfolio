@@ -45,7 +45,6 @@ export default function Contact() {
                 GitHub
               </h2>
               <p className="mt-1">
-                More Projects: <br />
                 <a href="https://github.com/EllisG97" target="_blank" className="text-indigo-400"> https://github.com/EllisG97 </a>
               </p>
             </div>
