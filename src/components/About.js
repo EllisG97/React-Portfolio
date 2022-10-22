@@ -32,7 +32,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="Picture of me"
-            src="./java.svg"
+            src="./java_medium.svg"
           />
         </div>
       </div>
