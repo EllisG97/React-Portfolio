@@ -29,7 +29,7 @@ export const projects = [
     description:
       "A simple C++ game where you cut down a tree to score points whilst avoiding being crushed by branches. Uses the SFML multimedia Library (C++, SFML)",
     image: "./Timber_game.gif",
-    link: "https://reactbootcamp.com",
+      link: "https://github.com/EllisG97/SFML-Timber-Game",
   },
 ];
 
