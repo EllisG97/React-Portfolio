@@ -5,7 +5,7 @@ export const projects = [
     description:
             "Machine Learning model deployed as a Flask web application to determine the Art Style of a given painting (Python, Tensorflow, ResNet50, Flask)",
     image: "./ML_project.gif",
-    link: "https://github.com/EllisG97",
+       link: "https://github.com/EllisG97/Android-Dreams",
   },
   {
     title: "Historical Map Facts",
